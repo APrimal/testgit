@@ -6,7 +6,3 @@ class solution:
 
 
 set
-
-
-def name(args):
-    pass
